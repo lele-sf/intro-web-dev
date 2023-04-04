@@ -2,13 +2,13 @@
 
 This repository contains the solutions for the following projects from the Complete Intro to Web Development, v3 course on Frontend Masters:
 
-1. Blog: A simple blog website built using HTML and CSS.
+1. [Blog](https://lele-sf.github.io/intro-web-dev/blog/): A simple blog website built using HTML and CSS.
 
-2. Calculator: A basic calculator built using JavaScript, HTML, and CSS.
+2. [Calculator](https://lele-sf.github.io/intro-web-dev/calculator/): A basic calculator built using JavaScript, HTML, and CSS.
 
-3. Coffee-shop layout: A responsive layout for a coffee shop menu built using HTML and CSS.
+3. [Coffee-shop](https://lele-sf.github.io/intro-web-dev/coffee-shop/): A responsive layout for a coffee shop menu built using HTML and CSS.
 
-4. Newspaper layout: A responsive layout for a newspaper website built using HTML and CSS.
+4. [Newspaper layout](https://lele-sf.github.io/intro-web-dev/newspaper-layout/): A responsive layout for a newspaper website built using HTML and CSS.
 
 ## Getting Started
 
