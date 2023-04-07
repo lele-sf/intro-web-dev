@@ -4,11 +4,13 @@ This repository contains the solutions for the following projects from the Compl
 
 1. [Blog](https://lele-sf.github.io/intro-web-dev/blog/): A simple blog website built using HTML and CSS.
 
-2. [Calculator](https://lele-sf.github.io/intro-web-dev/calculator/): A basic calculator built using JavaScript, HTML, and CSS.
+2. [Newspaper layout](https://lele-sf.github.io/intro-web-dev/newspaper-layout/): A responsive layout for a newspaper website built using HTML and CSS.
 
 3. [Coffee-shop](https://lele-sf.github.io/intro-web-dev/coffee-shop/): A responsive layout for a coffee shop menu built using HTML and CSS.
 
-4. [Newspaper layout](https://lele-sf.github.io/intro-web-dev/newspaper-layout/): A responsive layout for a newspaper website built using HTML and CSS.
+4. [Calculator](https://lele-sf.github.io/intro-web-dev/calculator/): A basic calculator built using JavaScript, HTML, and CSS.
+
+5. [Word-Masters](https://lele-sf.github.io/intro-web-dev/word-masters/): A word game built using JavaScript, HTML, and CSS.
 
 ## Getting Started
 
